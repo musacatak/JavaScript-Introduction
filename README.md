@@ -3,10 +3,6 @@ Learn JavaScript by Building 7 Games with freeCodeCamp
 
 ## All JavaScript classes/methods that used in these 7 games.
 * x
-* x
-* x
-* x
-* x
 
 ## Games
 | Name | URL | 
@@ -26,17 +22,11 @@ Learn JavaScript by Building 7 Games with freeCodeCamp
 
 ##### Rules
 * x
-* x
-* x
-* x
 
 #### Memory Game
   description
 
 ##### Rules
-* x
-* x
-* x
 * x
 
 #### Whac a Mole
@@ -44,17 +34,11 @@ Learn JavaScript by Building 7 Games with freeCodeCamp
 
 ##### Rules
 * x
-* x
-* x
-* x
 
 #### Breakout
   description
 
 ##### Rules
-* x
-* x
-* x
 * x
 
 #### Frogger
@@ -62,17 +46,11 @@ Learn JavaScript by Building 7 Games with freeCodeCamp
 
 ##### Rules
 * x
-* x
-* x
-* x
 
 #### Connect Four
   description
 
 ##### Rules
-* x
-* x
-* x
 * x
 
 #### Space Invaders
@@ -80,14 +58,3 @@ Learn JavaScript by Building 7 Games with freeCodeCamp
 
 ##### Rules
 * x
-* x
-* x
-* x
-
-Rules we created:
-* There are infinite levels.
-* Game continue until you dead.
-* You have to destroy all enemies to pass any level.
-* If you miss an enemy , this enemy will born again with differen speed.
-
-
