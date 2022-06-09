@@ -9,14 +9,11 @@ Learn JavaScript by Building 7 Games with freeCodeCamp
 * x
 
 ## Games
-| Name  |URL| 
+| Name |URL| 
 | ------------- || ------------- |
-|Rock Paper Scissors|
-https://git.heroku.com/rockpaperscissors7.git|
-|Memory Game|
-https://git.heroku.com/memorygame7.git|
-|Whac a Mole|
-https://git.heroku.com/whac-a-mole7.git|
+|Rock Paper Scissors|https://git.heroku.com/rockpaperscissors7.git|
+|Memory Game|https://git.heroku.com/memorygame7.git|
+|Whac a Mole|https://git.heroku.com/whac-a-mole7.git|
 |Breakout|https://breakout7.herokuapp.com/|
 |Frogger||
 |Connect Four||
